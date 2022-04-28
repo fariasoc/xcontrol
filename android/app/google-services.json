@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "206224537207",
+    "project_id": "xcontrol-41f63",
+    "storage_bucket": "xcontrol-41f63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206224537207:android:e1bc8f2a47d0cc4a523872",
+        "android_client_info": {
+          "package_name": "com.xcontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206224537207-hfn8j97ge2bdojkmltg7cbouv54jh84c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdn2jU4Sfoo4cQz60U9uoYHcrTo-gSVZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206224537207-hfn8j97ge2bdojkmltg7cbouv54jh84c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
